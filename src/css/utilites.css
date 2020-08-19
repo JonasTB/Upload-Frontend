@@ -1,0 +1,11 @@
+.d-flex {
+    display: flex;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.m-right-custom {
+    margin-right: 10px;
+}
